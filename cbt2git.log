@@ -1,0 +1,14 @@
+2023-08-06 08:26:30.519613 - Initialized conversion of CBT918
+2023-08-06 08:26:30.865933 - Received CBT.V505.FILE918.PDS from FILE918.XMI 
+2023-08-06 08:26:30.868385 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE918.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:26:30.869468 - Found $$$FORMT.txt (text/plain) in CBT.V505.FILE918.PDS, moved to PDS/$$$FORMT
+2023-08-06 08:26:30.870435 - Found $$NOTE00.txt (text/plain) in CBT.V505.FILE918.PDS, moved to PDS/$$NOTE00
+2023-08-06 08:26:30.871345 - Found $$NOTE01.txt (text/plain) in CBT.V505.FILE918.PDS, moved to PDS/$$NOTE01
+2023-08-06 08:26:30.872336 - Found $$NOTE02.txt (text/plain) in CBT.V505.FILE918.PDS, moved to PDS/$$NOTE02
+2023-08-06 08:26:30.873190 - Found $$NOTE03.txt (text/plain) in CBT.V505.FILE918.PDS, moved to PDS/$$NOTE03
+2023-08-06 08:26:30.874077 - Found $$UPDATE.txt (text/plain) in CBT.V505.FILE918.PDS, moved to PDS/$$UPDATE
+2023-08-06 08:26:30.874895 - Found @FILE918.txt (text/plain) in CBT.V505.FILE918.PDS, moved to PDS/@FILE918
+2023-08-06 08:26:30.874907 - Found DISTPAXZ.x-compress containing application/x-compress, moved to PDS/DISTPAXZ
+2023-08-06 08:26:30.877810 - Found INPUTRC.txt (text/plain) in CBT.V505.FILE918.PDS, moved to PDS/INPUTRC
+2023-08-06 08:26:30.878658 - Found INSTALL.jcl (text/plain) in CBT.V505.FILE918.PDS, moved to PDS/INSTALL
+2023-08-06 08:26:30.879456 - Found README.txt (text/plain) in CBT.V505.FILE918.PDS, moved to PDS/README
