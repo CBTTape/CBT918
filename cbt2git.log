@@ -1,13 +1,13 @@
-2025-04-15 06:47:40.191270 - Received CBT.V508.FILE918.PDS from FILE918.XMI 
-2025-04-15 06:47:40.192622 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE918.PDS, moved to PDS/$$$#DATE
-2025-04-15 06:47:40.192731 - Found $$$FORMT.txt (text/plain) in CBT.V508.FILE918.PDS, moved to PDS/$$$FORMT
-2025-04-15 06:47:40.192843 - Found $$NOTE00.txt (text/plain) in CBT.V508.FILE918.PDS, moved to PDS/$$NOTE00
-2025-04-15 06:47:40.192959 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE918.PDS, moved to PDS/$$NOTE01
-2025-04-15 06:47:40.193079 - Found $$NOTE02.txt (text/plain) in CBT.V508.FILE918.PDS, moved to PDS/$$NOTE02
-2025-04-15 06:47:40.193197 - Found $$NOTE03.txt (text/plain) in CBT.V508.FILE918.PDS, moved to PDS/$$NOTE03
-2025-04-15 06:47:40.193405 - Found $$UPDATE.txt (text/plain) in CBT.V508.FILE918.PDS, moved to PDS/$$UPDATE
-2025-04-15 06:47:40.193532 - Found @FILE918.txt (text/plain) in CBT.V508.FILE918.PDS, moved to PDS/@FILE918
-2025-04-15 06:47:40.196995 - Found DISTPAXZ.x-compress (application/x-compress) in CBT.V508.FILE918.PDS, moved to PDS/DISTPAXZ
-2025-04-15 06:47:40.197135 - Found INPUTRC.txt (text/plain) in CBT.V508.FILE918.PDS, moved to PDS/INPUTRC
-2025-04-15 06:47:40.197253 - Found INSTALL.jcl (text/plain) in CBT.V508.FILE918.PDS, moved to PDS/INSTALL
-2025-04-15 06:47:40.197367 - Found README.txt (text/plain) in CBT.V508.FILE918.PDS, moved to PDS/README
+2025-04-16 01:28:45.393929 - Received CBT.V508.FILE918.PDS from FILE918.XMI 
+2025-04-16 01:28:45.394824 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE918.PDS, moved to PDS/$$$#DATE
+2025-04-16 01:28:45.394876 - Found $$$FORMT.txt (text/plain) in CBT.V508.FILE918.PDS, moved to PDS/$$$FORMT
+2025-04-16 01:28:45.394917 - Found $$NOTE00.txt (text/plain) in CBT.V508.FILE918.PDS, moved to PDS/$$NOTE00
+2025-04-16 01:28:45.394955 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE918.PDS, moved to PDS/$$NOTE01
+2025-04-16 01:28:45.394997 - Found $$NOTE02.txt (text/plain) in CBT.V508.FILE918.PDS, moved to PDS/$$NOTE02
+2025-04-16 01:28:45.395036 - Found $$NOTE03.txt (text/plain) in CBT.V508.FILE918.PDS, moved to PDS/$$NOTE03
+2025-04-16 01:28:45.395168 - Found $$UPDATE.txt (text/plain) in CBT.V508.FILE918.PDS, moved to PDS/$$UPDATE
+2025-04-16 01:28:45.395214 - Found @FILE918.txt (text/plain) in CBT.V508.FILE918.PDS, moved to PDS/@FILE918
+2025-04-16 01:28:45.396490 - Found DISTPAXZ.x-compress (application/x-compress) in CBT.V508.FILE918.PDS, moved to PDS/DISTPAXZ
+2025-04-16 01:28:45.396556 - Found INPUTRC.txt (text/plain) in CBT.V508.FILE918.PDS, moved to PDS/INPUTRC
+2025-04-16 01:28:45.396599 - Found INSTALL.jcl (text/plain) in CBT.V508.FILE918.PDS, moved to PDS/INSTALL
+2025-04-16 01:28:45.396654 - Found README.txt (text/plain) in CBT.V508.FILE918.PDS, moved to PDS/README
